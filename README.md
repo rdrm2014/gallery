@@ -1,4 +1,4 @@
-# PiGallery2 
+# Gallery
 [![npm version](https://badge.fury.io/js/pigallery2.svg)](https://badge.fury.io/js/pigallery2)
 [![Build Status](https://travis-ci.org/bpatrik/pigallery2.svg?branch=master)](https://travis-ci.org/bpatrik/pigallery2)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=pigallery2&style=flat)](https://pigallery2.herokuapp.com)
@@ -115,7 +115,7 @@ apt-get install build-essential  libkrb5-dev gcc g++
 
 
 ## 2. Translate the page to your own language
-1. [Install Pigallery2](#111-b-install-from-source) from source (with the release it won't work) 
+1. [Install gallery](#111-b-install-from-source) from source (with the release it won't work) 
 2. add your language e.g: fr
    ```bash
    npm run add-translation -- --fr
